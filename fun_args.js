@@ -1,0 +1,5 @@
+function greet(name){
+    //name = parameter
+    console.log("Hello" + name);
+}
+greet("Venkat Reddy");
